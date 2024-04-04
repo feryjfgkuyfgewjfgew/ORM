@@ -40,11 +40,11 @@ class Employee (models. Model):
     salary=models. FloatField()
     aadhaar=models. BigIntegerField(null=True)
 ```
-## OUTPUT
+## OUT PUT
+![Screenshot 2024-04-04 114933](https://github.com/feryjfgkuyfgewjfgew/ORM/assets/150319377/939df3e2-8f0c-41af-87db-823b71251885)
 
-![Uploading Screenshot 2024-04-04 114933.png…]()
+![Screenshot 2024-04-04 114917](https://github.com/feryjfgkuyfgewjfgew/ORM/assets/150319377/7ae70a02-ebce-4995-afea-69acec2efece)
 
-![Uploading Screenshot 2024-04-04 114917.png…]()
 
 
 ## RESULT
